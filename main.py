@@ -21,7 +21,6 @@ if week == "sunday" or week == "Sunday":  ######################################
   else:
     print("\033[32m", "you can enjoy the food 😎😎", "\033[0m")
 
-
 elif week == "monday" or week == "Monday":  #######################################
   print()
   print("ok so today is", name, " at workplace")
@@ -37,7 +36,6 @@ elif week == "monday" or week == "Monday":  ####################################
         "No worry i hope you are doing hard work and i hope some day you shall get you favourite workplace",
         "\033[0m")
 
-
 elif week == "tuesday" or week == "Tuesday":  #######################################
   print()
   print("ok so today is", name, " at workplace")
@@ -48,7 +46,6 @@ elif week == "tuesday" or week == "Tuesday":  ##################################
     print("\033[32m", "ok so the dude is focusing on big money 😎😎👌", "\033[0m")
   else:
     print("\033[31m", "i am jelous of you 😒😢👍👍👍", "\033[0m")
-
 
 elif week == "wednesday" or week == "Wednesday":  #######################################
   print()
@@ -61,7 +58,6 @@ elif week == "wednesday" or week == "Wednesday":  ##############################
     print("\033[32m", "congrats let's have a party 🥳🥳🥳🥳", "\033[0m")
   else:
     print("\033[31m", "no worry money is on it's way 👍👍🫡", "\033[0m")
-
 
 elif week == "thursday" or week == "Thursday":  #######################################
   print()
@@ -84,7 +80,6 @@ elif week == "thursday" or week == "Thursday":  ################################
     print("\033[32m", "good season, make sure to have outdoor party👍",
           "\033[0m")
 
-
 elif week == "friday" or week == "Friday":  #######################################
   print()
   print("ok so today is", name, " at workplace")
@@ -104,7 +99,6 @@ elif week == "friday" or week == "Friday":  ####################################
         "\033[0m")
   print("have a good day👍👍")
 
-
 elif week == "saturday" or week == "Saturday":  #######################################
   print()
   print("ok so today is", name, " at workplace")
@@ -116,7 +110,6 @@ elif week == "saturday" or week == "Saturday":  ################################
   else:
     print("\033[31m", "i am jelous of you😒👍👍", "\033[0m")
   print("\n👍👍have a good day")
-
 
 else:
   print()
